@@ -70,6 +70,13 @@ The goal is to identify hidden patterns in solar production and support strategi
 
 ---
 
-## 📂 Project Structure
+## 3. Open the notebook and run all cells.
+
+---
+
+## 👤 Author
+Subodh Kumar  
+Data Science & Machine Learning Enthusiast
+
 
 
